@@ -2,6 +2,8 @@
 
 This folder contains the editor plugin, enrollment CLI, optional Git hook and native tests. Normal plugin operation does not import or start the backend.
 
+See the [complete Git Soft Lock guide](Docs/GitSoftLockGuide.md) for the full feature list, editing/save workflow, settings, recovery and troubleshooting.
+
 ## Install
 
 Copy this `Plugin` folder's **contents** into `YourProject/Plugins/GitSoftLock`, so `GitSoftLock.uplugin` is directly in that destination. Build the project's editor using the UE 5.8 C++ toolchain.

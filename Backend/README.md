@@ -2,6 +2,8 @@
 
 Requires Python **3.10+** with its standard `sqlite3` and `ssl` modules. There are no pip dependencies. Only this `Backend` folder is needed on the phone. Unreal and project files stay on the artists' computers.
 
+See the [complete system guide](../Plugin/Docs/GitSoftLockGuide.md) for how ownership works in Unreal, and the [API and storage reference](API.md) for endpoints, request/response examples, validation and database tables.
+
 ## Localhost on Windows first
 
 Open a terminal in `Backend`:

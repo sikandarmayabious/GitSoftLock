@@ -2,6 +2,8 @@
 
 An independent lock system for teams editing Unreal `.uasset` and `.umap` files in Git. The backend runs directly with Python and SQLite, including inside Ubuntu in Android Termux. No Docker, pip packages, cloud account, or Unreal installation is needed on the server.
 
+**Start with the [complete guide](Plugin/Docs/GitSoftLockGuide.md)** for features, diagrams, exact notification behavior, setup, daily workflow, settings, administration and troubleshooting. Developers can use the [backend API and storage reference](Backend/API.md).
+
 ```text
 GitSoftLock/
   Plugin/     Unreal editor plugin, enrollment client, Git hook and native tests

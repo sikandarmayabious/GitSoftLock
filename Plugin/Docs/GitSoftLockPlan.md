@@ -1,5 +1,7 @@
 # Git Soft Lock: implementation plan
 
+For current usage, features and operational instructions, read the [complete guide](GitSoftLockGuide.md). The [API reference](../../Backend/API.md) describes the implemented backend protocol.
+
 ## Contract
 
 An editor-only UE 5.8 plugin protects project `.uasset` and `.umap` packages (including project plugin content and external actor packages). The first editor to modify a package atomically claims its repository-relative filename on a shared service reached through localhost, SSH forwarding or HTTPS. Repository IDs are shared across branches: branching must not silently create a second owner of a binary file.
