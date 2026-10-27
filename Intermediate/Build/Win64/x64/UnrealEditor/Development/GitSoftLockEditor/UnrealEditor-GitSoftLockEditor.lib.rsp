@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-GitSoftLockEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/UnrealProject/RAYMOND_SION_UE/Intermediate/Build/Win64/x64/RAYMOND_SIONEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/UnrealProject/RAYMOND_SION_UE/Plugins/GitSoftLock/Intermediate/Build/Win64/x64/UnrealEditor/Development/GitSoftLockEditor/Module.GitSoftLockEditor.cpp.obj"
+"D:/UnrealProject/RAYMOND_SION_UE/Plugins/GitSoftLock/Intermediate/Build/Win64/x64/UnrealEditor/Development/GitSoftLockEditor/GitSoftLockClient.cpp.obj"
+"D:/UnrealProject/RAYMOND_SION_UE/Plugins/GitSoftLock/Intermediate/Build/Win64/x64/UnrealEditor/Development/GitSoftLockEditor/GitSoftLockEditorModule.cpp.obj"
+"D:/UnrealProject/RAYMOND_SION_UE/Plugins/GitSoftLock/Intermediate/Build/Win64/x64/UnrealEditor/Development/GitSoftLockEditor/GitSoftLockTests.cpp.obj"
+/OUT:"D:/UnrealProject/RAYMOND_SION_UE/Plugins/GitSoftLock/Intermediate/Build/Win64/x64/UnrealEditor/Development/GitSoftLockEditor/UnrealEditor-GitSoftLockEditor.lib"

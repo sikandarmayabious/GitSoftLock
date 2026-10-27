@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitsoftlockeditor\\module.gitsoftlockeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\raymond_sion_ue\\intermediate\\build\\win64\\x64\\raymond_sioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitsoftlockeditor\\definitions.gitsoftlockeditor.h",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\unrealeditor\\inc\\gitsoftlockeditor\\uht\\gitsoftlockeditor.init.gen.cpp",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\unrealeditor\\inc\\gitsoftlockeditor\\uht\\gitsoftlocksettings.gen.cpp",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\source\\gitsoftlockeditor\\public\\gitsoftlocksettings.h",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\unrealeditor\\inc\\gitsoftlockeditor\\uht\\gitsoftlocksettings.generated.h",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitsoftlockeditor\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "Git Soft Lock",
+  "Description": "Shared Git asset ownership, conflict notifications, and editor package save protection.",
+  "Category": "Source Control",
+  "CreatedBy": "Mayabious",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [{"Name": "GitSoftLockEditor", "Type": "Editor", "LoadingPhase": "PostEngineInit"}]
+}

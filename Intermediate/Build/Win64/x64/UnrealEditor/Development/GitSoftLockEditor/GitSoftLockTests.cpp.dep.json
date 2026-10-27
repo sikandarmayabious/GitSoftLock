@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\source\\gitsoftlockeditor\\private\\tests\\gitsoftlocktests.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\raymond_sion_ue\\intermediate\\build\\win64\\x64\\raymond_sioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gitsoftlockeditor\\definitions.gitsoftlockeditor.h",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\source\\gitsoftlockeditor\\private\\gitsoftlockeditormodule.h",
+            "d:\\unrealproject\\raymond_sion_ue\\plugins\\gitsoftlock\\source\\gitsoftlockeditor\\private\\gitsoftlockclient.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\coreuobject\\public\\uobject\\savepackage.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\serialization\\packagewriter.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\io\\iodispatcher.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\io\\iobuffer.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\misc\\ienginecrypto.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsaveoverride.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
