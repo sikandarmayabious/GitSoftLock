@@ -1,0 +1,6 @@
+* text=auto
+Plugin/Hooks/* text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf

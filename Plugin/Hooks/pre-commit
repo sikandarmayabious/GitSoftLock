@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+# BEGIN Git Soft Lock
+# Personal clone settings locate the independent plugin/tool checkout.
+if [ "$(git config --bool --get softlock.enabled || true)" = "true" ]; then
+  softlock_python=$(git config --get softlock.python) || exit 1
+  softlock_client=$(git config --get softlock.client) || exit 1
+  softlock_project=$(git config --get softlock.project) || exit 1
+  "$softlock_python" "$softlock_client" --project "$softlock_project" check-staged || exit $?
+fi
+# END Git Soft Lock
